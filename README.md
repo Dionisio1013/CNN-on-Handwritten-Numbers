@@ -24,7 +24,8 @@ Shape of dataset
 ![Unknown](https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/e58779f5-9623-48f5-99ef-d3f6bfd7c598)
 
 # CNN Structure
-![IMG_2566](https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/e17509da-89dd-4219-ab83-b9b41841f57a)
+![IMG_2566](https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/5daf0724-a8a8-409c-ae58-ac0ddbe1bac8)
+
 
 # Data Preparation
 
