@@ -23,10 +23,31 @@ Shape of dataset
 
 ![Unknown](https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/e58779f5-9623-48f5-99ef-d3f6bfd7c598)
 
+# CNN Structure
+![IMG_2566](https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/e17509da-89dd-4219-ab83-b9b41841f57a)
+
 # Data Preparation
 
-# CNN Structure
+Splitting the Data into Training and Testing Set
+
+<img width="386" alt="Screenshot 2024-01-28 at 5 47 18 PM" src="https://github.com/Dionisio1013/CNN-on-Handwritten-Numbers/assets/106797659/8f99ee83-c954-4e0d-88af-31c707acd570">
+
+Training: 60,000 records
+Testing: 10,000 records
+
+Split into batches of 100 records shuffled for both training and testing
+
+Why do we split into batches?
+
+Helps with Stochiatic Gradient Descent
+- 
+
+
 
 # Training Model
 
+
 # Testing Results
+
+
+Epoch Results
